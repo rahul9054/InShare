@@ -34,6 +34,7 @@ router
       });
       const response = await file.save();
       res.json({ file: `${process.env.APP_BASE_URL}/files/${response.uuid}` });
+      console.log(file+" ");
     });
   })
   .get((req, res) => {

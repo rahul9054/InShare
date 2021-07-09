@@ -15,7 +15,7 @@ const emailForm = document.querySelector('#emailForm');
 
 const toast = document.querySelector('.toast');
 
-const baseURL = 'http://localhost:3000';
+const baseURL = 'https://localhost:3000';
 const uploadURL = `/api/files`;
 const emailURL = `/api/files/send`;
 
