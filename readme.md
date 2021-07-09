@@ -6,7 +6,7 @@ This is a file sharing web application.You can drag and drop files and share eas
 
 ## Project Link
 
-- [https://file-sharing-app-24.herokuapp.com/](https://file-sharing-app-24.herokuapp.com/)
+- [https://inshare-rk.herokuapp.com/](https://inshare-rk.herokuapp.com/)
 
 ## Running Application Locally
 
