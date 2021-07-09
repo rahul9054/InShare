@@ -1,5 +1,5 @@
 {
-  "name": "file-sharing-project",
+  "name": "inshare",
   "version": "1.0.0",
   "description": "File sharing project",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "server": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Rajat Bansal",
+  "author": "Rahu Khandelwal",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
