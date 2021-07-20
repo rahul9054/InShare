@@ -68,8 +68,8 @@ router.post('/send', async (req, res) => {
       requireTLS : true ,
       // secure: process.env.SECURE,
       auth: {
-        user : 'rahulkhandelwal9530057219@gmail.com' ,
-        pass : 'nzavbziivgymbneo'
+        user : '' ,
+        pass : ''
       },
     });
 
